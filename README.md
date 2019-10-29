@@ -2,4 +2,4 @@
 
 Drugi projekt z programowania obiektowego.
 
-Indekser i wyszukiwarka tekstu, używająca biblioteki Apache Lucene.
+Program umożliwiający indeksowanie plików (w różnych formatach) i wyszukiwanie w nich tekstu, przy pomocy biblioteki Apache Lucene.
