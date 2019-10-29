@@ -1,0 +1,15 @@
+indexer/DirectoryWatcher$1.class
+indexer/DirectoryWatcher.class
+indexer/Main.class
+searcher/WrongNumberOfArguments.class
+indexer/IncorrectIndexerArguments.class
+searcher/IncorrectSearchingArgument.class
+searcher/Main.class
+searcher/Searcher.class
+indexer/Languages.class
+searcher/WrongArgument.class
+indexer/Extractor.class
+indexer/Indexer.class
+indexer/Indexer$1.class
+searcher/WrongCommand.class
+searcher/MyFormatter.class
