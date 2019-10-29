@@ -1,2 +1,5 @@
 # PO-projekt2
-Programowanie obiektowe, Uniwersytet Warszawski, Informatyka (II semestr)
+
+Drugi projekt z programowania obiektowego.
+
+Indekser i wyszukiwarka tekstu, używająca biblioteki Apache Lucene.
